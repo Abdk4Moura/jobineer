@@ -1,0 +1,5 @@
+{
+  "name": "Job Mission Control",
+  "description": "A centralized dashboard to manage job applications. Features 'Magic Paste' AI parsing to automatically categorize jobs from raw text into actionable items.",
+  "requestFramePermissions": []
+}
